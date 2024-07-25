@@ -1,0 +1,218 @@
+Day 1:
+------
+Date: 15th July 2024
+--------------------
+Agenga:
+Self Introduction.
+My Atish Jain, MCA, MSC(IT), MS(CS) IIIT-B & LJMU(UK) (Java FSD)
+Exp: 15+ years of exp
+I have trained more than 1 lac as on date.
+
+What is Language?
+Tool for human communation
+ex: hindi, English, Tamil etc
+
+Human --> Mahcine(Computer)
+Computer understands only 1 language, machine langugage (binary - 1's 0's)
+
+Computer Programming Languages:
+C, CPP, Java, C#.net, PHP, Python etc
+
+Day 2:
+------
+Date: 16th July 2024
+--------------------
+
+what is software
+types of software
+1. system software
+2. application software
+   a. packages
+   b. languages
+
+Translator --> Tranlates source code into machine code
+1. Compiler
+   translates whole program at a time into machine code
+2. Intrepreter
+   translates whole program line by line
+
+types of languages:
+1. machine language
+2. assembly
+3. high level
+
+Programming Paradigm:
+is the style of writing computer programs
+1. proceudre oriented programming - pop
+   ex: C
+2. object oriented programming - oop
+   ex: C++, Java, Python etc
+
+What is Java?
+Java is High level object oriented programming language
+
+C & CPP Code Produces Machine dependent code.
+
+History of Java
+
+-------
+Day 3:
+-------
+Date: 17-July-24
+----------------
+Different Editions of Java
+1. Java SE
+2. Java EE
+3. Java ME
+
+Day 4:
+-------
+Date: 18-July-24
+----------------
+Software Installation
+JDK, JRE, JVM, JSL
+
+JDK - Java Development KIT(set of tools(commands) which are used to develop java programs)
+
+JRE - Jave Runtime Enviornment (for executing java programs or running java programs)
+JVM - Java Virtual Machine 
+
+JSL - Java Standard Library
+
+What is Programming?
+
+Programming giving instructions to the computer for performing a task.
+
+instructions --> Data
+
+Variable:
+Variable is the name given to memory location or variable name is the name of the memory location 
+where data is stored.
+
+Datatype:
+datatype specifies what kind of data that a variable will hold and what type of operation will be performed.
+
+there are 8 primitive data types are there in Java:
+1. boolean
+2. char
+3. byte
+4. short
+5. int
+6. long
+7. float
+8. double
+
+Encoding Character SET:
+ASCII - American Standard code  for Information Interchange - 256
+UNICODE - 65536
+
+Day 5:
+------
+Date: 19-July-24
+----------------
+English--> 26 alphabets + Grammer
+Java Programming --> Keywords + Syntax + library files
+
+Keywords --> Reserved or predefined
+Identifier -->
+must start with letter(a-z) or $ or _
+AGE, Age, age
+8 character length
+must use keywords as idenfier names
+spaces are not allowed
+net salary - wrong
+net_salary - right
+
+--------------------------------------
+variables and method names:
+salary, age, display()
+
+netSalary, grossSalary, displayMarks();
+--------------------------------------
+class names:
+Student 
+StudentMarks
+
+---------------
+constant variables /final
+AGE
+NET_SALARY
+------------------
+com, example
+
+Day 5:
+------
+Date: 22-July-24
+----------------
+int age=20;
+
+int - keyword (datatype)
+age - variable
+= - assignment operator
+20 - literal/integer literal/constant value
+
+Requirements for writing our First Java Program.
+
+java compiler + java intrepreter - JDK
+
+text editor
+-----------
+notepad
+notepad ++
+editplus
+
+Step 1:
+-------
+Create workspace folder
+Write first Java Program.
+
+
+Assignment:
+Write a Java Program to Print Personal Details
+
+Name: Atish Jain
+Qualification: MS(CS), MCA
+Address: Main Road, Hyderabad
+
+Day 6:
+------
+Date: 23-July-24
+----------------
+Write a Java Program to Print first name and last name in single line.
+
+Day 7:
+------
+Date 24-July-24
+---------------
+Internals of Java Compilation and execution
+
+Day 8:
+-------
+Date: 25-July-24
+----------------
+Variables & Datatypes
+Arithmetic Operators
+basic programming
+
+1. Write a Program to Perform Addition of two number
+   input of 2 nos
+   add 2 nos and store the result in 3rd no
+   display the result
+
+2. Write a Program to convert the time from minutes into hours and minutes
+
+Assignment:
+
+3. Write a Program to Perform the following operations on two nos
+   a. Addtion
+   b. Subtraction
+   c. multiplication
+   d. Division
+4. Write a java program to calculate gross salary and net salary
+   from basic, allowances and deductions.
+
+   gross salary = basic + allowances
+   net salary = gross salary - deductions
+
+
+
