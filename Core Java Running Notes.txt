@@ -216,3 +216,11 @@ Assignment:
 
 
 
+Day 9:
+-------
+Date: 26-July-24
+----------------
+Agenda:
+1. variable initialization is mandatory in java
+2. var keyword - jdk 10 onwards
+3. executing java programs without compilation - jdk 11 onwards
