@@ -224,3 +224,44 @@ Agenda:
 1. variable initialization is mandatory in java
 2. var keyword - jdk 10 onwards
 3. executing java programs without compilation - jdk 11 onwards
+   javac Sample.java - compilation
+   java Sample - execution
+
+   from JDK 11 onwards
+
+   java Sample.java
+
+4. Jshell - this feature is added from jdk 9 onwards
+
+Reading input from the user at runtime.
+there are 4 ways using which we can pass input to a java program
+1. using Scanner class
+2. using BufferedReader class
+3. GUI Input
+4. Command Line Arguments
+
+Reading input at run time using Scanner Class:
+---------------------------------------------
+Scanner sc=new Scanner(System.in);
+System.in - keyword
+
+1. Adding of two nos using input at runtime
+
+Assignment:
+----------
+1. Write a Java Program to Calculate Amount for the inputted
+   rate and quantity.
+   Note: Rate should be in decimals.
+
+2. write a Java program to convert the temprature from fahrenheit
+   to centigrade.
+   Formula:
+    
+   c=(f-32)*5/9
+
+   input - temprature in fahrenheit
+   output - tempratue in centigrade
+
+
+
+
