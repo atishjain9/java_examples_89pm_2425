@@ -235,8 +235,8 @@ Agenda:
 
 Reading input from the user at runtime.
 there are 4 ways using which we can pass input to a java program
-1. using Scanner class
-2. using BufferedReader class
+1. using Scanner class - JDK 5 onward
+2. using BufferedReader class - 
 3. GUI Input
 4. Command Line Arguments
 
@@ -262,6 +262,50 @@ Assignment:
    input - temprature in fahrenheit
    output - tempratue in centigrade
 
+Day 10:
+-------
+Date: 29-July-24
+----------------
+
+Working with Scanner class methods
+
+Day 11:
+-------
+Date: 30-July-24
+----------------
+Working with Scanner class examples
 
 
+Day 12:
+-------
+Date: 31-July-24
+----------------
+File Naming Rules in Java.
+1. public classes has naming restrictions (class name and file name must be same)
+2. one java file can have only 1 public class
+3. in java file there can be any number of non public classes
+
+Number Systems:
+---------------
+There 4 types of number systems are there
+1. decimal number system - 10 digits 0-9 - base 10 
+2. binary number system - 2 digits - 1,0 - base 2
+3. Octal number system - 8 digits - 0-7 - base 8
+4. hexadecimal number system - 16 digits 0-9-a-f - base 16
+
+Day 13:
+-------
+Date: 2-Aug-24
+----------------
+Arithmetic Operators:
++, -, *, /, % - used to perform operation deical number system.
+
+a=10
+b=20
+c=a+b //30
+
+Bitwise Operators:
+&, |, ^, ! 
+
+>>,<<,>>> - shift operators
 
