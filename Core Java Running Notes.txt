@@ -326,3 +326,16 @@ there 3 control flow statements
 2. selection
 3. loops/iterations/repetitions
 
+selection/conditional statements
+1. simple if
+2. if with else
+3. multiple if
+4. nested if
+
+1. simple if:
+
+if <condition>
+  {
+    stmt/s;
+  }
+
