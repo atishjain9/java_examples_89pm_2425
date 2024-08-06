@@ -309,3 +309,20 @@ Bitwise Operators:
 
 >>,<<,>>> - shift operators
 
+Day 14:
+-------
+Date: 5-Aug-24
+----------------
+Revision
+Assignment
+
+Day 15:
+-------
+Date: 6-Aug-24
+--------------
+
+there 3 control flow statements
+1. sequence
+2. selection
+3. loops/iterations/repetitions
+
