@@ -339,3 +339,27 @@ if <condition>
     stmt/s;
   }
 
+2. if with else:
+----------------
+if <condition>
+  { 
+   stmt;
+   }
+else
+ {
+   stmt;
+  }
+
+Assignments:
+1. Write a Java Program to Find the Biggest of 2 nos.
+   Note: Read input at runtime.
+2. Write a Java Program to Check Whether the inputted no is Even or Odd.
+3 Write a Java Program to calculate the discount and print the final amount based on data given below
+  sales >= 25000 - 10%
+  otherwise - 5%
+
+  variables - sales, discount, final_amt
+  input - sales (using scanner class at runtime)
+  calculate the discount using if the condition
+  calculate final amount ( final_amt = sales - discount)
+
