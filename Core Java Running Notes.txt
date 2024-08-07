@@ -363,3 +363,26 @@ Assignments:
   calculate the discount using if the condition
   calculate final amount ( final_amt = sales - discount)
 
+Day 15:
+-------
+Date: 7-Aug-24
+--------------
+3. Multiple if
+--------------
+Write a Java Program to print Grade of a student based on Average Marks.
+
+Average      Grade
+------------------
+>=60         First
+>=50 <60     Second
+>=40 <50     Third
+<40          Fail
+
+Assignment:
+----------
+Write a Java Program to read a no and check whether it is
+positive, negative and neutral.
+
+4. Nested if
+------------
+Write a Java Program to find biggest of 3 nos.
