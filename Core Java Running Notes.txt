@@ -386,3 +386,29 @@ positive, negative and neutral.
 4. Nested if
 ------------
 Write a Java Program to find biggest of 3 nos.
+
+Day 16:
+-------
+Date: 19-Aug-24
+---------------
+Topic: switch-case
+
+control flow statements:
+1. sequence
+2. selection
+   if-else
+   4 types of if-else
+   1. simple if - if you want to exeucte the statements when the condition if true
+   2. if with else - true - false
+   3. multiple if - 
+   4. nested if
+   --------------
+
+   switch-case - multiple conditions
+   swith-case is known as replacement for multiple if
+
+3. loops/iterations/repetitions
+
+Assignment:
+Write a Java Program to read the direction
+EAST, WEST, NORTH, SOUTH
