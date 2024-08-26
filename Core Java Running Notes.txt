@@ -412,3 +412,48 @@ control flow statements:
 Assignment:
 Write a Java Program to read the direction
 EAST, WEST, NORTH, SOUTH
+
+Day 17:
+-------
+Date: 26-Aug-24
+---------------
+Topic: Loops in Java
+there are 3 types of loops
+1. while loop
+2. do while loop
+3. for loop
+
+1. while loop:
+-------------
+==> Pre tested / Entry check
+==> control will enter into body of the loop only if the condition is satisfied.
+
+2. do..while  loop
+------------------
+==>  Post tested / Exit Check
+==> control will enter into body of the loop though initially the condition is false
+
+
+3. for loop
+-----------
+when the no of iterations are known in advance then for loop is recommended
+
+
+every loops has 3 concepts:
+--------------------------
+1. initial value
+2. condition
+3. updation
+
+Assignment:
+-----------
+1. write a Java Program to count no of digits in a given no
+ex: input - 123 
+    output - 3
+
+2. write a Java Program to find sum of  digits
+ex: input - 125 
+    output - 8
+
+3. write a java program to keep on reading nos from 
+   the user till the user inputs 0, and print sum of numbers
