@@ -457,3 +457,10 @@ ex: input - 125
 
 3. write a java program to keep on reading nos from 
    the user till the user inputs 0, and print sum of numbers
+
+Date: 27-Aug-24
+---------------
+Topic: Examples on Loops
+
+1. Program to count no of digits..
+
