@@ -458,9 +458,39 @@ ex: input - 125
 3. write a java program to keep on reading nos from 
    the user till the user inputs 0, and print sum of numbers
 
+Day 18:
 Date: 27-Aug-24
 ---------------
 Topic: Examples on Loops
 
 1. Program to count no of digits..
 
+
+Day 19:
+Date: 02-Sep-24
+---------------
+Topic: Arrays
+
+What is an Array?
+Array is an variable which can hold multiple values of same datatype
+
+Day 20:
+Date: 04-Sep-24
+---------------
+Topic: Array Initialization
+
+Assignments:
+-----------
+1. Write a java program to declare an double array with 10 elements and display the same
+2. Write a Java Program to declare an integer array with 5 elements and display from 4 to 0
+3. Write a Java Program to read array of 10 elements at runtime
+   Note: use Scanner class
+
+Day 21:
+Date: 09-Sep-24
+---------------
+Topic: Double dimensional arrays
+
+Arrays of 2 types:
+1. single dimension
+2. multi dimensional
